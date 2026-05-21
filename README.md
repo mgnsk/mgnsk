@@ -1,6 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mgnsk&show_icons=true&theme=transparent&custom_title=mgnsk%27s%20Github%20Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgnsk&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+![mgnsk's GitHub Stats](https://readme-stats-github.pages.dev/api?username=mgnsk&theme=light)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mgnsk&theme=light)
